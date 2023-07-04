@@ -46,4 +46,4 @@ for char in text:
        count[char] = 1
    for char, cnt in count.items():
        print(f"Символ {char} встречается {cnt} раз")
-       # salutgitgппgit add fail_nou.py
+       # salutgitgппgit add fail_nou.py git
